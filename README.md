@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Setup Step
+# Setup Step
 
 1. Clone or download the project to local device.
 2. Open the project using visual studio code or any IDE by right click the root folder "ui"
